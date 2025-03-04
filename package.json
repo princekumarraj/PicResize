@@ -1,5 +1,5 @@
 {
-  "name": "aspect-ratio",
+  "name": "picresize",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
